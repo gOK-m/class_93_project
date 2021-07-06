@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right, #00ffff, #ffffff, #00ff00);
+}
+
+#float_necessary{
+    float: none;
+}
+
+html, body{
+    height: 100%;
+    margin: 0;
+}
